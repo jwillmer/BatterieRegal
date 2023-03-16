@@ -11,7 +11,7 @@ Eine kurze Anleitung zum Bau eine Regals aus Aluminiumprofilen zur Unterbringung
 
 Die Autodesk datei kann [hier heruntergeladen][f3d] werden.
 
-![](./Battery Rack v4.stl)
+![](./BatteryRackV4.stl)
 
 ## Materialliste
 
@@ -41,4 +41,4 @@ Folgendes habe ich direkt in China bestellt via [Aliexpress][aliexpress]. Bitte 
 
 [myaluprofil]: https://www.myaluprofil.de
 [aliexpress]: https://www.aliexpress.com
-[f3d]: Battery Rack v4.f3d
+[f3d]: BatteryRackV4.f3d
