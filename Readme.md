@@ -7,18 +7,17 @@ Eine kurze Anleitung zum Bau eine Regals aus Aluminiumprofilen zur Unterbringung
 ![](./Aufbau_Frontal.png)
 ![](./Aufbau_von_unten.png)
 
-## Rendered 
+## Darstellung 
 
 Die Autodesk datei kann [hier heruntergeladen][f3d] werden.
 
-![](./BatteryRackV4.stl)
 
 ## Materialliste
 
 Ich habe bei folgender Firma bestellt: [myaluprofil.de][myaluprofil]. Der Warenwert war 120.- Euro plus Versand.
 
 | Anzahl | Artikel                                  | Type  | Länge  |
-|--------|-----------------------------------------------------------|
+|--------|------------------------------------------|-------|--------|
 | 2      | Aluminiumprofil 30x30 Nut 6 I-Typ Leicht | 2N180 | 700 mm |
 | 3      | Aluminiumprofil 30x30 Nut 6 I-Typ Leicht | 3N    | 460 mm |
 | 2      | Aluminiumprofil 30x30 Nut 6 I-Typ Leicht | 1N    | 300 mm |
@@ -27,7 +26,7 @@ Ich habe bei folgender Firma bestellt: [myaluprofil.de][myaluprofil]. Der Warenw
 | 1      | Aluminiumprofil 30x30 Nut 6 I-Typ Leicht | 1N    | 520 mm |
 | 2      | Aluminiumprofil 30x30 Nut 6 I-Typ Leicht | 3N    | 700 mm |
 
-Folgendes habe ich direkt in China bestellt via [Aliexpress][aliexpress]. Bitte achte auf die Beschreibung, manchmal sind es Sets die hier gelistet sind.
+Folgendes habe ich direkt in China bestellt via [Aliexpress][aliexpress]. Der Warenwert war 85.- Euro. Bitte achte auf die Beschreibung, manchmal sind es Sets die hier gelistet sind.
 
 | Bild                                                                      | Anzahl | Beschreibung                                                                                                              |
 |---------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
