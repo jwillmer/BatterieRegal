@@ -1,6 +1,6 @@
 # Batterie Regal
 
-Eine kurze Anleitung zum Bau eine Regals aus Aluminiumprofilen zur Unterbringung von Batterie Racks.
+Eine kurze Anleitung zum Bau eines Regals aus Aluminiumprofilen zur Unterbringung von Batterie Racks.
 
 ## Design Bilder
 
@@ -9,7 +9,13 @@ Eine kurze Anleitung zum Bau eine Regals aus Aluminiumprofilen zur Unterbringung
 
 ## Darstellung 
 
-Die Autodesk datei kann [hier heruntergeladen][f3d] werden oder direkt im browser gerendert werden: [Autodesk Galley][a360]
+Die Autodesk Datei kann [hier heruntergeladen][f3d] werden oder direkt im Browser gerendert werden: [Autodesk Gallery][a360]
+
+## Materialkalkulation
+
+Ein Batterie Rack soll ungefähr 100 kg schwer sein. Aufgeteilt auf drei Querstreben sind dies ungefähr 350 Newton pro Strebe. Die 3 cm Aluminiumprofile sollten dieses Gewicht also gut halten können.
+
+![Materialkalkulation](./calculation.png)
 
 ## Materialliste
 
