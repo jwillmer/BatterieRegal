@@ -40,4 +40,4 @@ Folgendes habe ich direkt in China bestellt via [Aliexpress][aliexpress]. Der Wa
 [myaluprofil]: https://www.myaluprofil.de
 [aliexpress]: https://www.aliexpress.com
 [f3d]: BatteryRackV4.f3d
-[a360}: https://a360.co/3yKJpqY
+[a360]: https://a360.co/3yKJpqY
