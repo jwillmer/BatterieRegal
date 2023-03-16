@@ -9,8 +9,7 @@ Eine kurze Anleitung zum Bau eine Regals aus Aluminiumprofilen zur Unterbringung
 
 ## Darstellung 
 
-Die Autodesk datei kann [hier heruntergeladen][f3d] werden.
-
+Die Autodesk datei kann [hier heruntergeladen][f3d] werden oder direkt im browser gerendert werden: [Autodesk Galley][a360]
 
 ## Materialliste
 
@@ -41,3 +40,4 @@ Folgendes habe ich direkt in China bestellt via [Aliexpress][aliexpress]. Der Wa
 [myaluprofil]: https://www.myaluprofil.de
 [aliexpress]: https://www.aliexpress.com
 [f3d]: BatteryRackV4.f3d
+[a360}: https://a360.co/3yKJpqY
