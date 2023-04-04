@@ -19,7 +19,11 @@ Ein Batterie Rack soll ungefähr 100 kg schwer sein. Aufgeteilt auf drei Querstr
 
 ## Materialliste
 
-Ich habe bei folgender Firma bestellt: [myaluprofil.de][myaluprofil]. Der Warenwert war 120.- Euro plus Versand.
+Ich habe bei folgender Firma bestellt: [myaluprofil.de][myaluprofil]. Der Warenwert war 120.- Euro plus Versand. 
+
+### Achtung
+Profiltype `leicht` war ein Fehler. Leicht bedeutet, dass das ganze Zubehör eine Spezialgröße benötigt und die untere liste nicht passt. Also darauf achten nicht `leicht` zu kaufen.
+
 
 | Anzahl | Artikel                                  | Type  | Länge  |
 |--------|------------------------------------------|-------|--------|
